@@ -1,6 +1,11 @@
 # SVM-and-Kernels
   In machine learning, support vector machines (SVMs, also support vector networks) are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis.
 A Support Vector Machine (SVM) is a discriminative classifier formally defined by a separating hyperplane. In other words, given labeled training data (supervised learning), the algorithm outputs an optimal hyperplane which categorizes new examples.
+
+
+
+
+
              Support Vector Machine
 1. SVM assumes that the data is lineraly separable.
 2. It chooses the line which is more distant from both the classes.
